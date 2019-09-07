@@ -227,3 +227,163 @@ http://61.58.60.247:9000/live/224.m3u8
 http://61.58.60.247:9000/live/225.m3u8
 #EXTINF:-1,iLive |BTV INERNATIONAL
 http://61.58.60.247:9000/live/226.m3u8
+#EXTINF:-1,iLive |博斯運動
+rtmp://wv3.tp33.net/sat//md011
+#EXTINF:-1,iLive |博斯電玩台
+rtmp://wv3.tp33.net/sat/md041
+#EXTINF:-1,iLive |愛爾達足球
+rtmp://wv3.tp33.net/sat/md021
+#EXTINF:-1,iLive |ELEVEN SPORTS 1
+rtmp://wv3.tp33.net/sat/md051
+#EXTINF:-1,iLive |Eleven Sports 1
+http://220.228.38.31/live/fet008/chunklist.m3u
+#EXTINF:-1,iLive |Eleven Sports 2
+http://220.228.38.31/live/fet009/chunklist.m3u
+#EXTINF:-1,iLive |愛爾達體育
+rtmp://wv3.tp33.net/sat/md031
+#EXTINF:-1,iLive |Fox-1運動
+rtmp://wv3.tp33.net/sat/tv731
+#EXTINF:-1,iLive |Fox-2運動
+rtmp://wv3.tp33.net/sat/tv741
+#EXTINF:-1,iLive |衛視電影台
+http://alrtmp.cdn.zhanqi.tv/zqlive/3361_sxwdy.m3u8
+#EXTINF:-1,iLive |星空電影
+http://stream.slave.nx96200.cn:13164/playurl?accesstoken=R58434870U3AC38289K774C53FEM30EEBF9W210049&programid=4200900111&playtype=live&auth=no&playtoken=31612AXOAAZGYAZ1?&.ts#http://104.160.190.80:9955/nimble_live/1921122/playlist.m3u8
+#EXTINF:-1,iLive |國家地理
+http://stream.slave.nx96200.cn:13164/playurl?accesstoken=R58434870U3AC38289K774C53FEM30EEBF9W210049&programid=4200900114&playtype=live&auth=no&playtoken=31612AXOAAZGYAZ1?&.ts#http://adtv.ercdn.net/adnatgeo/adnatgeo_720p.m3u8#http://61.220.41.105:36570/hls/CH017.m3u8?ex=1512896939&st=hiylcwdks8E39EhBz_gB_Q#http://60.250.65.252:36570/hls/CH017.m3u8?ex=1512897087&st=F_YrRgpUxLm13_woIQYG4A
+#EXTINF:-1,iLive |野生動物台
+rtsp://c.itvitv.com/ngwhk.edphpuegdbc
+#EXTINF:-1,iLive |RTHK
+http://liveal.quanmin.tv/live/471947190.m3u8
+#EXTINF:-1,iLive |奇妙電視
+http://media.fantv.hk/m3u8/archive/channel2_stream1.m3u8
+#EXTINF:-1,iLive |VIUTV 6
+http://live.alicdn.com/tmall/0be7273c-06a1-4868-a615-c6fbdefbf1eb.m3u8
+#EXTINF:-1,iLive |now
+http://live.italkdd.com/ts027/channel_033.m3u8
+#EXTINF:-1,iLive |now華劇台
+http://live.italkdd.com/ts027/channel_034.m3u8
+#EXTINF:-1,iLive |TVB星河
+http://alrtmp.cdn.zhanqi.tv/zqlive/3361_stvbxh.m3u8
+#EXTINF:-1,iLive |TVB星級生活台
+http://qqpull.inke.cn/live/tvbsh.m3u8
+#EXTINF:-1,iLive |TVB翡翠
+http://hls.quanmin.tv/live/jade/playlist.m3u8#http://acm.gg/j.m3u8#http://acm.gg/jade.m3u8?from=message&isappinstalled=0#http://live.alicdn.com/tmall/4b63b8cc-ecaa-11e7-8c3f-9a214cf093ae.m3u8
+#EXTINF:-1,iLive |BS日本
+rtmp://wv3.tp33.net/sat/jp071
+#EXTINF:-1,iLive |廣東衛視
+rtmp://wv3.tp33.net/sat/hk031
+#EXTINF:-1,iLive |體育台
+rtmp://wv3.tp33.net/sat/hk021
+#EXTINF:-1,iLive |CCTV-5+體育賽事
+rtmp://wv3.tp33.net/sat/cn051
+#EXTINF:-1,iLive |CCTV-5體育
+rtmp://wv3.tp33.net/sat/cn021
+#EXTINF:-1,iLive |CCTV風雲足球
+rtmp://wv3.tp33.net/sat/cn041
+#EXTINF:-1,iLive |日BS
+rtmp://wv3.tp33.net/sat/jp071
+#EXTINF:-1,iLive |日FOX體育
+rtmp://wv3.tp33.net/sat/jp051
+#EXTINF:-1,iLive |日GAORA
+rtmp://wv3.tp33.net/sat/jp021
+#EXTINF:-1,iLive |日GREEN
+rtmp://wv3.tp33.net/sat/jp081
+#EXTINF:-1,iLive |日jsports1
+rtmp://wv3.tp33.net/sat/jp061
+#EXTINF:-1,iLive |日jsports2
+rtmp://wv3.tp33.net/sat/jp041
+#EXTINF:-1,iLive |日jsports3
+rtmp://wv3.tp33.net/sat/jp031
+#EXTINF:-1,iLive |日財經
+rtmp://wv3.tp33.net/sat/jp121
+#EXTINF:-1,iLive |日棒球
+rtmp://wv3.tp33.net/sat/jp101
+#EXTINF:-1,iLive |日劇場
+rtmp://wv3.tp33.net/sat/jp011
+#EXTINF:-1,iLive |美fox-NBA
+rtmp://wv3.tp33.net/sat/us011
+#EXTINF:-1,iLive |美FOXsun
+rtmp://wv3.tp33.net/sat/us051
+#EXTINF:-1,iLive |美FOX體育
+rtmp://wv3.tp33.net/sat/us081
+#EXTINF:-1,iLive |美MLB-us
+rtmp://wv3.tp33.net/sat/us041
+#EXTINF:-1,iLive |美NBC-4
+rtmp://wv3.tp33.net/sat/us121
+#EXTINF:-1,iLive |美NBC-UNIVERSO影劇
+rtmp://wv3.tp33.net/sat/us151
+#EXTINF:-1,iLive |美sky體育足球
+rtmp://wv3.tp33.net/sat/us101
+#EXTINF:-1,iLive |美sportsman運動家
+rtmp://wv3.tp33.net/sat/us071
+#EXTINF:-1,iLive |香港足球
+rtmp://wv3.tp33.net/sat/hk041
+#EXTINF:-1,iLive |球彩台
+rtmp://wv3.tp33.net/sat/hk011
+#EXTINF:-1,iLive |F1直播
+http://liveal.quanmin.tv/live/2142818090.flv
+
+#EXTINF:-1,iLive |三立臺灣台
+http://ilaa.tkpjhv.boxtv.win/live/0jr13p4v/index.m3u8
+#EXTINF:-1,iLive |三立綜合台
+http://ilaa.tkpjhv.boxtv.win/live/8sw4bfgq/index.m3u8
+#EXTINF:-1,iLive |三立新聞
+http://ilaa.tkpjhv.boxtv.win/live/cqz6gtpb/index.m3u8
+#EXTINF:-1,iLive |三立戲劇台
+http://ilaa.tkpjhv.boxtv.win/live/k4bszph7/index.m3u8
+#EXTINF:-1,iLive |香港翡翠台
+http://ilaa.tkpjhv.boxtv.win/live/ghsgrgsc/index.m3u8
+#EXTINF:-1,iLive |香港J2
+http://ilaa.tkpjhv.boxtv.win/live/ghsgrgsa/index.m3u8
+#EXTINF:-1,iLive |香港明珠台
+http://ilaa.tkpjhv.boxtv.win/live/ghsgrgse/index.m3u8
+#EXTINF:-1,iLive |TVB星河
+http://ilaa.tkpjhv.boxtv.win/live/gjgwhbh7/index.m3u8
+#EXTINF:-1,iLive |無線財經台
+http://ilaa.tkpjhv.boxtv.win/live/ghsgrgsi/index.m3u8
+#EXTINF:-1,iLive |viutv
+http://ilaa.tkpjhv.boxtv.win/live/ghsgrgsg/index.m3u8
+#EXTINF:-1,iLive |探索臺灣
+http://ilaa.tkpjhv.boxtv.win/live/sq7kwzwq/index.m3u8
+#EXTINF:-1,iLive |中天新聞
+http://ilaa.tkpjhv.boxtv.win/live/8j108vcg/index.m3u8
+#EXTINF:-1,iLive |中天綜合
+http://ilaa.tkpjhv.boxtv.win/live/975ffqpt/index.m3u8
+#EXTINF:-1,iLive |星衛電影台
+http://ilaa.tkpjhv.boxtv.win/live/6s69fnjz/index.m3u8
+#EXTINF:-1,iLive |中旺電視
+http://live.italkdd.com/ts142/channel_066.m3u8
+#EXTINF:-1,iLive |美國中文電視
+http://live.italkdd.com/ts142/channel_068.m3u8
+#EXTINF:-1,iLive |sinovision
+http://live.italkdd.com/ts142/channel_069.m3u8
+#EXTINF:-1,iLive |Asia Travel
+http://live.italkdd.com/ts027/channel_036.m3u8
+#EXTINF:-1,iLive |東森新聞美洲
+http://live.italkdd.com/ts137/channel_080.m3u8
+#EXTINF:-1,iLive |三立台灣台
+http://live.italkdd.com/ts137/channel_082.m3u8
+#EXTINF:-1,iLive |NOW華劇
+http://live.italkdd.com/ts027/channel_034.m3u8 
+#EXTINF:-1,iLive |NOW TV
+http://live.italkdd.com/ts027/channel_033.m3u8
+#EXTINF:-1,iLive |東森
+http://live.italkdd.com/ts133/channel_032.m3u8
+
+#EXTINF:-1,iLive |GoodTV
+http://live.streamingfast.net/osmflivech3.m3u8
+#EXTINF:-1,iLive |GoodTV1
+http://live.streamingfast.net/osmflivech5.m3u8
+#EXTINF:-1,iLive |GoodTV生活台
+http://live.streamingfast.net/osmflivech12.m3u8
+#EXTINF:-1,iLive |GoodTV好消息
+http://live.streamingfast.net/osmflivech1.m3u8
+#EXTINF:-1,iLive |GoodTV好消息2
+http://live.streamingfast.net/osmflivech2.m3u8
+#EXTINF:-1,iLive |GoodTV美食旅遊台
+http://live.streamingfast.net/osmflivech14.m3u8
+#EXTINF:-1,iLive |GoodTV經典音樂
+http://live.streamingfast.net/osmflivech4.m3u8
+#EXTINF:-1,iLive |HKC香港有線球彩台
+rtmp://wv3.tp33.net/sat/hk011

@@ -1,0 +1,229 @@
+#EXTM3U
+#EXTINF:-1,iLive |測試源請上Google搜尋[iLive kodi]
+https://www.youtube.com/watch?v=YKXX_TOHyJU&list=PLLKYI5TkllHEOF4UKs9thQLwl818T44g5&index=3
+#EXTINF:-1,iLive |壹新聞
+http://wowza4.nexttv.com.tw/liveedge/eratv3/chunklist_w.m3u8
+#EXTINF:-1,iLive |壹電視新聞
+http://d2e6xlgy8sg8ji.cloudfront.net/liveedge/eratv3/playlist.m3u8
+#EXTINF:-1,iLive |TVBS新聞HD
+http://60.199.188.65/HLS/WG_TVBS-N/index.m3u8
+#EXTINF:-1,iLive |非凡新聞
+http://60.199.188.65/HLS/WG_USTV-N/index.m3u8
+#EXTINF:-1,iLive |中天新聞
+http://60.199.188.65/HLS/WG_ETTV-N/index.m3u8
+#EXTINF:-1,iLive |民視
+rtmp://wv3.tp33.net/sat/tv051
+#EXTINF:-1,iLive |台視
+rtmp://wv3.tp33.net/sat/tv071
+#EXTINF:-1,iLive |中視
+rtmp://wv3.tp33.net/sat/tv091
+#EXTINF:-1,iLive |華視
+rtmp://wv3.tp33.net/sat/tv111
+#EXTINF:-1,iLive |緯來日本
+rtmp://wv3.tp33.net/sat/tv761
+#EXTINF:-1,iLive |緯來育樂
+rtmp://wv3.tp33.net/sat/tv701
+#EXTINF:-1,iLive |緯來體育
+rtmp://wv3.tp33.net/sat/tv721
+#EXTINF:-1,iLive|民視台灣台
+http://bw.voovo.top/mytv.php?id=4gtv-4gtv001
+#EXTINF:-1,iLive|民視旅遊台
+http://bw.voovo.top/mytv.php?id=litv-ftv07
+#EXTINF:-1,iLive|民視新聞台
+http://bw.voovo.top/mytv.php?id=litv-ftv13
+#EXTINF:-1,iLive|民視綜藝台
+http://bw.voovo.top/mytv.php?id=4gtv-4gtv004
+#EXTINF:-1,iLive|民視影劇台
+http://bw.voovo.top/mytv.php?id=litv-ftv09
+#EXTINF:-1,iLive|華視新聞
+http://bw.voovo.top/mytv.php?id=4gtv-4gtv052
+#EXTINF:-1,iLive|台視財經
+http://bw.voovo.top/mytv.php?id=4gtv-4gtv056
+#EXTINF:-1,iLive|台視新聞台
+http://bw.voovo.top/mytv.php?id=4gtv-4gtv051
+#EXTINF:-1,iLive|台灣交通台
+http://bw.voovo.top/mytv.php?id=4gtv-4gtv003
+#EXTINF:-1,iLive|東森亞洲幼幼
+http://bw.voovo.top/happytv.php?id=a999d4ded88154371f380e8564cfe33ed0d96f35
+#EXTINF:-1,iLive|東森亞洲幼幼台
+http://bw.voovo.top/mytv.php?id=4gtv-4gtv021
+#EXTINF:-1,iLive|東森亞洲新聞
+http://bw.voovo.top/happytv.php?id=5cdf3152525df1980ba06fff31df899b05c3222e
+#EXTINF:-1,iLive|東森亞洲新聞台
+http://bw.voovo.top/mytv.php?id=4gtv-4gtv022
+#EXTINF:-1,iLive|東森亞洲衛視
+http://bw.voovo.top/mytv.php?id=4gtv-4gtv020
+#EXTINF:-1,iLive|東森亞洲衛視
+http://bw.voovo.top/happytv.php?id=eac4dee42679bd8827aea7c8aeda5c04a2ed80e7
+#EXTINF:-1,iLive|東森財經新聞
+http://bw.voovo.top/mytv.php?id=4gtv-4gtv019
+#EXTINF:-1,iLive|東森新聞
+http://bw.voovo.top/happytv.php?id=c1540866ec1f82581cd2b059be976004401bd985
+#EXTINF:-1,iLive|東森新聞台
+http://bw.voovo.top/mytv.php?id=litv-ftv14
+#EXTINF:-1,iLive|TVBS
+http://bw.voovo.top/mytv.php?id=4gtv-4gtv073
+#EXTINF:-1,iLive|TVBS新聞台
+http://bw.voovo.top/mytv.php?id=4gtv-4gtv072
+#EXTINF:-1,iLive|TVBS精采台
+http://bw.voovo.top/mytv.php?id=4gtv-4gtv067
+#EXTINF:-1,iLive|八大第一
+http://bw.voovo.top/happytv.php?id=40deac9c5fe9d41e287bb9115f1f3b27d3847ed4
+#EXTINF:-1,iLive|八大綜合
+http://bw.voovo.top/mytv.php?id=4gtv-4gtv039
+#EXTINF:-1,iLive|八大綜合
+http://bw.voovo.top/happytv.php?id=daeb872281299bf4e9a221edb64fa3eddd50cb0e
+#EXTINF:-1,iLive|八大戲劇
+http://bw.voovo.top/happytv.php?id=2df1e64930e331efd5665d4dc348f344c3b8f991
+#EXTINF:-1,iLive|大愛二台
+http://bw.voovo.top/mytv.php?id=4gtv-4gtv106
+#EXTINF:-1,iLive|大愛電視
+http://bw.voovo.top/mytv.php?id=4gtv-4gtv007
+#EXTINF:-1,iLive|中天新聞台
+http://bw.voovo.top/mytv.php?id=4gtv-4gtv009
+#EXTINF:-1,iLive|中視新聞
+http://bw.voovo.top/mytv.php?id=4gtv-4gtv074
+#EXTINF:-1,iLive|公視二台
+http://bw.voovo.top/mytv.php?id=4gtv-4gtv107
+#EXTINF:-1,iLive|公視戲劇
+http://bw.voovo.top/mytv.php?id=4gtv-4gtv042
+#EXTINF:-1,iLive|采昌影劇台
+http://bw.voovo.top/mytv.php?id=4gtv-4gtv049
+#EXTINF:-1,iLive|非凡新聞
+http://bw.voovo.top/mytv.php?id=4gtv-4gtv010
+#EXTINF:-1,iLive|baby first
+http://bw.voovo.top/happytv.php?id=6e898c8a45348e9f7b0d1832e65511f59bb1f7ff
+#EXTINF:-1,iLive|梅迪奇藝術台
+http://bw.voovo.top/happytv.php?id=8ff078a3ff3c7553a92a94564d45e1e2b167a15b
+#EXTINF:-1,iLive|博斯足球
+http://bw.voovo.top/happytv.php?id=60539ceb94cf929fc392f4319adb880b0d203e16
+#EXTINF:-1,iLive|博斯足球台
+http://bw.voovo.top/mytv.php?id=litv-longturn08
+#EXTINF:-1,iLive|博斯高一
+http://bw.voovo.top/happytv.php?id=c1557208f91fd098c2bd8e786f73a9c39f08d1dd
+#EXTINF:-1,iLive|博斯高二
+http://bw.voovo.top/happytv.php?id=2c3c721ce707763b46b065b575b56dc73707e644
+#EXTINF:-1,iLive|博斯高球二台
+http://bw.voovo.top/mytv.php?id=litv-longturn06
+#EXTINF:-1,iLive|博斯高球臺
+http://bw.voovo.top/mytv.php?id=litv-longturn05
+#EXTINF:-1,iLive|博斯無限
+http://bw.voovo.top/happytv.php?id=870d7e82ca38073824843a0d029afa5e346427ed
+#EXTINF:-1,iLive|博斯無限台
+http://bw.voovo.top/mytv.php?id=litv-longturn10
+#EXTINF:-1,iLive|博斯運動nfl
+http://bw.voovo.top/happytv.php?id=008748a8b1b24092e4bb4d6a41f3a6533b19c9a0
+#EXTINF:-1,iLive|博斯運動網
+http://bw.voovo.top/mytv.php?id=litv-longturn07
+#EXTINF:-1,iLive|博斯電玩
+http://bw.voovo.top/happytv.php?id=dbb1891937464468918b02f9259a900312d6e01c
+#EXTINF:-1,iLive|博斯網球
+http://bw.voovo.top/happytv.php?id=6f78e3a2cd845be6da276265894a68ad6b27d6e8
+#EXTINF:-1,iLive|博斯網球臺
+http://bw.voovo.top/mytv.php?id=litv-longturn09
+#EXTINF:-1,iLive|博斯魅力
+http://bw.voovo.top/happytv.php?id=27c60fc1183f96bb813ca26879b160cb9bec0c99
+#EXTINF:-1,iLive|博斯魅力台
+http://bw.voovo.top/mytv.php?id=litv-longturn04
+#EXTINF:-1,iLive|智林體育台
+http://bw.voovo.top/mytv.php?id=4gtv-4gtv101
+#EXTINF:-1,iLive|靖天日本台
+http://bw.voovo.top/mytv.php?id=4gtv-4gtv047
+#EXTINF:-1,iLive|靖天卡通台
+http://bw.voovo.top/mytv.php?id=4gtv-4gtv044
+#EXTINF:-1,iLive|靖天育樂台
+http://bw.voovo.top/mytv.php?id=4gtv-4gtv062
+#EXTINF:-1,iLive|靖天映畫
+http://bw.voovo.top/mytv.php?id=4gtv-4gtv055
+#EXTINF:-1,iLive|靖天資訊台
+http://bw.voovo.top/mytv.php?id=4gtv-4gtv065
+#EXTINF:-1,iLive|靖天電影台
+http://bw.voovo.top/mytv.php?id=4gtv-4gtv061
+#EXTINF:-1,iLive|靖天綜合台
+http://bw.voovo.top/mytv.php?id=4gtv-4gtv046
+#EXTINF:-1,iLive|靖天戲劇台
+http://bw.voovo.top/mytv.php?id=4gtv-4gtv058
+#EXTINF:-1,iLive|靖洋卡通Nice Bingo
+http://bw.voovo.top/mytv.php?id=4gtv-4gtv057
+#EXTINF:-1,iLive|靖洋戲劇台
+http://bw.voovo.top/mytv.php?id=4gtv-4gtv045
+#EXTINF:-1,iLive|緯來育樂
+http://bw.voovo.top/happytv.php?id=3ed254d40c7228374bf63aabc372f882bed0ab04
+#EXTINF:-1,iLive|緯來電影
+http://bw.voovo.top/happytv.php?id=458bc3d1c71d0686277349fcecdca64a885eaf00
+#EXTINF:-1,iLive|緯來綜合
+http://bw.voovo.top/happytv.php?id=70888399a6e144231fe96f8e89806aa49a030b7d
+#EXTINF:-1,iLive|緯來戲劇
+http://bw.voovo.top/happytv.php?id=6d13f716b9276dafd3ee352034b93744ef04d839
+#EXTINF:-1,iLive|緯來體育
+http://bw.voovo.top/happytv.php?id=20001e0a78f919a7e2b422924a6d12da36fb1091
+#EXTINF:-1,iLive|寰宇新聞二
+http://bw.voovo.top/happytv.php?id=e62f109dd41cd6ca5f264ab88c1330ab62db1f87
+#EXTINF:-1,iLive|寰宇新聞二台
+http://bw.voovo.top/mytv.php?id=litv-longturn15
+#EXTINF:-1,iLive|寰宇新聞台
+http://bw.voovo.top/mytv.php?id=litv-longturn14
+#EXTINF:-1,iLive|寰宇新聞台
+http://bw.voovo.top/happytv.php?id=f1ff06324cc20ec9c24f978b7f7c20ed93c3cb6d
+#EXTINF:-1,iLive|龍華日韓
+http://bw.voovo.top/happytv.php?id=36d3534509a6bedbfca261496fca1d1f450e34c7
+#EXTINF:-1,iLive|龍華日韓台
+http://bw.voovo.top/mytv.php?id=litv-longturn11
+#EXTINF:-1,iLive|龍華卡通
+http://bw.voovo.top/happytv.php?id=c3bd85e3767f9a07aeac05ab2dd4112210b7fd5f
+#EXTINF:-1,iLive|龍華卡通台
+http://bw.voovo.top/mytv.php?id=litv-longturn01
+#EXTINF:-1,iLive|龍華偶像
+http://bw.voovo.top/happytv.php?id=baa3aca46c3c5e3b225640eb043444bab812ad19
+#EXTINF:-1,iLive|龍華偶像台
+http://bw.voovo.top/mytv.php?id=litv-longturn12
+#EXTINF:-1,iLive|龍華電影
+http://bw.voovo.top/happytv.php?id=f9bd85aabd5d74a05aac19dd5e8999b60fce773b
+#EXTINF:-1,iLive|龍華戲劇
+http://bw.voovo.top/happytv.php?id=49295b97078b8081b861e6bc370280181d47cdb2
+#EXTINF:-1,iLive|龍華戲劇台
+http://bw.voovo.top/mytv.php?id=litv-longturn18
+#EXTINF:-1,iLive|韓國娛樂台 KMTV
+http://bw.voovo.top/mytv.php?id=4gtv-4gtv016
+#EXTINF:-1,iLive |林正英電影
+http://ws4.streamhls.huya.com/huyalive/94525224-2460686034-10568566041753944064-2789274542-10057-A-1512526089-1_1200/playlist.m3u8
+#EXTINF:-1,iLive |林正英電影2
+http://ws4.streamhls.huya.com/huyalive/30765679-2497712118-10727591861632892928-2847687642-10057-A-1509439765-1_1200/playlist.m3u8
+#EXTINF:-1,iLive |周星馳電影
+http://ws.streamhls.huya.com/huyalive/94525224-2460685313-10568562945082523648-2789274524-10057-A-1512526024-1_1200/playlist.m3u8
+#EXTINF:-1,iLive |周潤發電影
+http://ws4.streamhls.huya.com/huyalive/94525224-2460685722-10568564701724147712-2789253838-10057-A-1513132292-1_1200/playlist.m3u8
+#EXTINF:-1,iLive |成龍電影
+http://rotation.vod.zlive.cc/channel/1259.m3u8
+#EXTINF:-1,iLive |BBC EARTH HD
+http://92.60.224.62:3014/udp/239.1.1.42:22042
+#EXTINF:-1,iLive |AFC
+http://61.58.60.247:9000/live/176.m3u8
+#EXTINF:-1,iLive |E!NEWS
+http://61.58.60.247:9000/live/180.m3u8
+#EXTINF:-1,iLive |CGTN Documentary
+http://61.58.60.247:9000/live/221.m3u8
+#EXTINF:-1,iLive |CGTN
+http://61.58.60.247:9000/live/222.m3u8
+#EXTINF:-1,iLive |CNEX
+http://61.58.60.247:9000/live/257.m3u8
+#EXTINF:-1,iLive |DIVA
+http://61.58.60.247:9000/live/178.m3u8
+#EXTINF:-1,iLive |靖天綜合台
+http://61.58.60.247:9000/live/242.m3u8
+#EXTINF:-1,iLive |靖天戲劇台
+http://61.58.60.247:9000/live/246.m3u8
+#EXTINF:-1,iLive |靖天日本台
+http://61.58.60.247:9000/live/243.m3u8
+#EXTINF:-1,iLive |靖天電影台
+http://61.58.60.247:9000/live/245.m3u8
+#EXTINF:-1,iLive |靖天映畫台
+http://61.58.60.247:9000/live/244.m3u8
+#EXTINF:-1,iLive |CCTV戲曲
+http://61.58.60.247:9000/live/223.m3u8
+#EXTINF:-1,iLive |CCTV娛樂
+http://61.58.60.247:9000/live/224.m3u8
+#EXTINF:-1,iLive |CHINA MOVIE
+http://61.58.60.247:9000/live/225.m3u8
+#EXTINF:-1,iLive |BTV INERNATIONAL
+http://61.58.60.247:9000/live/226.m3u8

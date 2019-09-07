@@ -436,3 +436,115 @@ http://livechina.cntv.wscdns.com:8000/live/flv/channel1469
 http://222.37.159.225:13164/playurl.m3u8?playtype=live&protocol=ios&accesstoken=R58466B04U387E6625K7735CA24M2FF85C5W3078869&verifycode=2000000610&playtoken=ABCDEFGH&programid=4200000136
 #EXTINF:-1,iLive |亞太第一衛視
 rtmp://v1.one-tv.com/live/mpegts.stream#http://v1.one-tv.com:1935/live/mpegts.stream/playlist.m3u8
+#EXTINF:-1,iLive |周星馳電影輪播
+http://liveal.quanmin.tv/live/2031799856_quanmin720.m3u8
+#EXTINF:-1,iLive |明珠台
+http://live.alicdn.com/tmall/12aad6be-bb7f-49eb-9998-47531372564e.m3u8
+#EXTINF:-1,iLive |信大台
+http://61.216.177.73/sta/ch1764005.m3u8
+#EXTINF:-1,iLive |信吉台
+http://61.216.177.73/sta/ch1764002.m3u8
+#EXTINF:-1,iLive |哈卡tv
+http://61.216.177.73/sta/ch1764024.m3u8
+#EXTINF:-1,iLive |星空衛視
+http://222.37.159.225:13164/playurl?playtype=live&accesstoken=R58466B04U387E6625K7735CA24M2FF85C5W3078869&programid=4200000124&playtoken=ABCDEFGH
+#EXTINF:-1,iLive |美東頻道
+http://174.127.67.246/live330/playlist.m3u8
+#EXTINF:-1,iLive |美食台2
+http://rotation.vod.zlive.cc/channel/1426.m3u8
+#EXTINF:-1,iLive |美國中文生活
+http://media3.sinovision.net:1935/live/livestream/playlist.m3u8
+#EXTINF:-1,iLive |香港RHK-32
+http://rthklive2-lh.akamaihd.net/i/rthk32_1@168450/master.m3u8#http://rthklive2-lh.akamaihd.net/i/rthk32_1@168450/index_2052_av-b.m3u8
+#EXTINF:-1,iLive |香港奇妙電視
+http://media.fantv.hk/m3u8/archive/channel2.m3u8
+#EXTINF:-1,iLive |香港衛視HKS-288P
+rtmp://live.hkstv.hk.lxdns.com/live//hks#http://live.hkstv.hk.lxdns.com/live/hks/playlist.m3u8#http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
+#EXTINF:-1,iLive |唐亞太
+http://61.216.177.73/sta/ch1764015.m3u8
+#EXTINF:-1,iLive |高清影院1
+http://dlhls.cdn.zhanqi.tv/zqlive/88945_Kligp.m3u8
+#EXTINF:-1,iLive |高清影院2
+http://dlhls.cdn.zhanqi.tv/zqlive/35180_KUDhx.m3u8
+#EXTINF:-1,iLive |健康衛視
+http://live.jkwshk.tv/AppName/StreamName.m3u8
+#EXTINF:-1,iLive |國家地理
+http://stream.slave.nx96200.cn:13164/playurl?accesstoken=R58434870U3AC38289K774C53FEM30EEBF9W210049&programid=4200900114&playtype=live&auth=no&playtoken=31612AXOAAZGYAZ1?&.ts
+#EXTINF:-1,iLive |國家地理頻道
+http://adtv.ercdn.net/adnatgeo/adnatgeo_720p.m3u8
+#EXTINF:-1,iLive |博斯運動
+rtmp://wv3.tp33.net/sat//md011
+#EXTINF:-1,iLive |博斯魅力
+http://ms007.happytv.com.tw/live/OcScNdWHvBx5P4w3/playlist.m3u8
+#EXTINF:-1,iLive |富立台
+http://61.216.177.73/sta/ch1764022.m3u8
+#EXTINF:-1,iLive |港版央視，
+http://live.mudu.tv/watch/sysx8m.m3u8
+#EXTINF:-1,iLive |華視HD
+rtmp://wv3.tp33.net/sat/tv111
+#EXTINF:-1,iLive |華語音樂
+http://rotation.vod.zlive.cc/channel/1176.m3u8
+#EXTINF:-1,iLive |陽光衛視
+http://222.37.159.225:13164/playurl.m3u8?playtype=live&protocol=ios&accesstoken=R58466B04U387E6625K7735CA24M2FF85C5W3078869&verifycode=2000000610&playtoken=ABCDEFGH&programid=4200000108
+#EXTINF:-1,iLive |8頻道
+http://tglch8h-i.akamaihd.net/hls/live/566549/ctv/02.m3u8
+#EXTINF:-1,iLive |OKTO
+http://tgloktoh-i.akamaihd.net/hls/live/566482/ctv/02.m3u8
+#EXTINF:-1,iLive |U頻道
+http://tglchuh-i.akamaihd.net/hls/live/566554/ctv/02.m3u8
+#EXTINF:-1,iLive |亞洲新聞
+http://tglcnash-i.akamaihd.net/hls/live/566558/ctv/02.m3u8
+#EXTINF:-1,iLive |新華社中文
+http://live.xinhuashixun.com/live/chn01/desc.m3u8
+#EXTINF:-1,iLive |新傳媒
+http://tglsuriah-i.akamaihd.net/hls/live/566540/ctv/02.m3u8
+#EXTINF:-1,iLive |誠心電臺
+http://61.216.177.73/sta/ch1764012.m3u8
+#EXTINF:-1,iLive |遊戲入侵
+http://61.218.59.193/live/ch103/index.m3u8
+#EXTINF:-1,iLive |遊戲風雲
+http://222.37.159.225:13164/playurl.m3u8?playtype=live&protocol=ios&accesstoken=R58466B04U387E6625K7735CA24M2FF85C5W3078869&verifycode=2000000610&playtoken=ABCDEFGH&programid=4200000050環球奇觀http://222.37.159.225:13164/playurl.m3u8?playtype=live&protocol=ios&accesstoken=R58466B04U387E6625K7735CA24M2FF85C5W3078869&verifycode=2000000610&playtoken=ABCDEFGH&programid=4200000051
+#EXTINF:-1,iLive |電影輪播1
+http://live-tx-hdl.huomaotv.cn/live/9gFWYZ24081.m3u8
+#EXTINF:-1,iLive |電影輪播16
+http://hlstx.plu.cn/onlive/5146be95aa39409da3745012029de772.m3u8
+#EXTINF:-1,iLive |電影輪播2
+http://live-tx-hdl.huomaotv.cn/live/2inGSW24083.m3u8
+#EXTINF:-1,iLive |電影輪播3
+http://live-tx-hdl.huomaotv.cn/live/4bgtCR24082.m3u8
+#EXTINF:-1,iLive |電影輪播7
+http://live-tx-hdl.huomaotv.cn/live/gEFTWY23105.m3u8
+#EXTINF:-1,iLive |嘉華影院
+http://dlhls.cdn.zhanqi.tv/zqlive/36799_8JBTz.m3u8
+#EXTINF:-1,iLive |網路放映廳10
+http://dlhls.cdn.zhanqi.tv/zqlive/43626_vQOn9.m3u8
+#EXTINF:-1,iLive |網路放映廳11
+http://chyd-wsvod.wasu.tv/data13/ott/344/2015-06/01/1433146056644_381163/playlist.m3u8
+#EXTINF:-1,iLive |網路放映廳12
+http://dlhls.cdn.zhanqi.tv/zqlive/20910_uUMgC.m3u8
+#EXTINF:-1,iLive |網路放映廳13
+http://dlhls.cdn.zhanqi.tv/zqlive/49858_wgGj1.m3u8
+#EXTINF:-1,iLive |網路放映廳15
+http://dlhls.cdn.zhanqi.tv/zqlive/53346_ESoth.m3u8
+#EXTINF:-1,iLive |網路放映廳16
+http://dlhls.cdn.zhanqi.tv/zqlive/7032_0s2qn_1024/index.m3u8#http://dlhls.cdn.zhanqi.tv/zqlive/7032_0s2qn.m3u8
+#EXTINF:-1,iLive |網路放映廳17
+http://dlhls.cdn.zhanqi.tv/zqlive/33765_6qakZ.m3u8
+#EXTINF:-1,iLive |網路放映廳18
+http://dlhls.cdn.zhanqi.tv/zqlive/69410_SgVxl.m3u8
+#EXTINF:-1,iLive |網路放映廳19
+http://chyd-wsvod.wasu.tv/data13/ott/344/2015-05/28/1432782476341_377935/playlist.m3u8
+#EXTINF:-1,iLive |網路放映廳20
+http://chyd-wsvod.wasu.tv/data9/ott/344/2013-06/07/1370600803122_737204/playlist.m3u8
+#EXTINF:-1,iLive |網路放映廳28
+http://chyd-wsvod.wasu.tv/data13/ott/344/2015-06/10/1433923712941_962055/playlist.m3u8
+#EXTINF:-1,iLive |網路放映廳3
+http://3g.dzsm.com/streamer/gy02.m3u8
+#EXTINF:-1,iLive |網路放映廳4
+http://dlhls.cdn.zhanqi.tv/zqlive/35349_iXsXw.m3u8
+#EXTINF:-1,iLive |網路放映廳5
+http://dlhls.cdn.zhanqi.tv/zqlive/49427_jmACJ.m3u8
+#EXTINF:-1,iLive |臺灣電影
+http://61.216.177.73/sta/ch1764036.m3u8
+#EXTINF:-1,iLive |臺灣藝術1
+http://61.216.177.73/sta/ch1764010.m3u8

@@ -387,3 +387,52 @@ http://live.streamingfast.net/osmflivech14.m3u8
 http://live.streamingfast.net/osmflivech4.m3u8
 #EXTINF:-1,iLive |HKC香港有線球彩台
 rtmp://wv3.tp33.net/sat/hk011
+#EXTINF:-1,iLive |HOT探索記錄
+http://stream.slave.nx96200.cn:13164/playurl?accesstoken=R5930BF1FU3076B063K775266D0IE34A8E7AM30EB744W552439&programid=4200900170&playtype=live&auth=no&playtoken=31625AAAAAALZTA1?&.ts
+#EXTINF:-1,iLive |H體育台
+http://61.218.59.193/live/ch102/index.m3u8
+#EXTINF:-1,iLive |MC賽車
+http://liveal.quanmin.tv/live/2132332338.flv
+#EXTINF:-1,iLive |MOMO2台
+http://61.216.177.73/sta/ch1764033.m3u8
+#EXTINF:-1,iLive |MOMO3台
+http://61.216.177.73/sta/ch1764034.m3u8
+
+#EXTINF:-1,iLive |Newtv]超級綜
+http://183.252.176.20//PLTV/88888888/224/3221225924/index.m3u8
+#EXTINF:-1,iLive |Newtv中國功夫
+http://223.110.245.171/PLTV/3/224/3221226935/index.m3u8
+#EXTINF:-1,iLive |Newtv明星大片
+http://183.207.249.14/PLTV/3/224/3221225535/index.m3u8
+#EXTINF:-1,iLive |Newtv軍事評論
+http://183.207.249.14/PLTV/3/224/3221225533/index.m3u8
+#EXTINF:-1,iLive |Newtv軍旅劇場
+http://183.207.249.15/PLTV/3/224/3221225531/index.m3u8
+#EXTINF:-1,iLive |Newtv健康有約
+http://183.207.249.14/PLTV/3/224/3221225545/index.m3u8
+#EXTINF:-1,iLive |Newtv喜劇電影
+http://183.207.249.12/PLTV/3/224/3221225525/index.m3u8
+#EXTINF:-1,iLive |Newtv超級電視劇
+http://183.252.176.64//PLTV/88888888/224/3221225928/index.m3u8
+#EXTINF:-1,iLive |Newtv農業致富
+http://183.207.249.14/PLTV/3/224/3221225537/index.m3u8
+#EXTINF:-1,iLive |Newtv潮媽辣婆
+http://223.110.245.170/PLTV/3/224/3221226983/index.m3u8
+#EXTINF:-1,iLive |NEW愛情喜劇
+http://183.207.249.15/PLTV/3/224/3221225525/index.m3u8
+#EXTINF:-1,iLive |好消息GOODTV一台
+http://live.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch1-1.m3u8
+#EXTINF:-1,iLive |好消息GOODTV一台
+http://live.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch1-2.m3u8
+#EXTINF:-1,iLive |成龍電影輪播
+http://liveal.quanmin.tv/live/2142818098.flv
+#EXTINF:-1,iLive |佛教1
+rtmp://hk2.hwadzan.com/liveedgelist/livetv
+#EXTINF:-1,iLive |佛教2
+rtmp://hk2.hwadzan.com/liveedge/amtb
+#EXTINF:-1,iLive |即時視頻三亞天涯海角
+http://livechina.cntv.wscdns.com:8000/live/flv/channel1469
+#EXTINF:-1,iLive |求索紀實高清
+http://222.37.159.225:13164/playurl.m3u8?playtype=live&protocol=ios&accesstoken=R58466B04U387E6625K7735CA24M2FF85C5W3078869&verifycode=2000000610&playtoken=ABCDEFGH&programid=4200000136
+#EXTINF:-1,iLive |亞太第一衛視
+rtmp://v1.one-tv.com/live/mpegts.stream#http://v1.one-tv.com:1935/live/mpegts.stream/playlist.m3u8
